@@ -1,0 +1,7 @@
+pyspark
+spark-nlp
+nltk
+wordcloud
+matplotlib
+pandas
+numpy
