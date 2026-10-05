@@ -92,7 +92,7 @@ stock-market-sentiment/
 ├─ requirements.txt
 ├─ .gitignore
 ├─ data/
-│  └─ stock_market_crash_2022.csv  
+│  └─ .gitkeep (stock_market_crash_2022.csv)  
 └─ notebooks/
    └─ sentiment_analysis.ipynb
 ```
